@@ -36,165 +36,51 @@ Figma
 ```
 Register Number: 212223230129
 Developed By: MURALI KRISHNA S
-
-Home Page
-
-<div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
-    <div style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.40)"></div>
-    <div style="width: 360px; height: 59px; left: 0px; top: 9px; position: absolute; background: #FEF7F7"></div>
-    <img style="width: 347px; height: 48px; left: 6px; top: 14px; position: absolute" src="https://via.placeholder.com/347x48" />
-    <div style="width: 193px; height: 159px; left: 83px; top: 171px; position: absolute; text-align: center; color: #18E9DC; font-size: 44px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">TECNO FEST 2K23</div>
-    <div style="width: 227px; height: 54px; left: 69px; top: 391px; position: absolute; background: #DA2C6B; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 2px black solid"></div>
-    <div style="width: 227px; height: 54px; left: 69px; top: 498px; position: absolute; background: #18E9E9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 2px black solid"></div>
-    <div style="width: 204px; height: 35px; left: 79px; top: 402px; position: absolute; text-align: center; color: white; font-size: 29px; font-family: Lakki Reddy; font-weight: 400; word-wrap: break-word">LOGIN</div>
-    <div style="width: 204px; height: 35px; left: 78px; top: 507px; position: absolute; text-align: center; color: white; font-size: 29px; font-family: Lakki Reddy; font-weight: 400; word-wrap: break-word">REGISTER</div>
+// home page
+<div style="width: 375px; height: 667px; position: relative; background: #D8A5A5">
+  <img style="width: 200px; height: 30.08px; left: -875px; top: -37px; position: absolute" src="https://via.placeholder.com/200x30" />
+  <img style="width: 370.41px; height: 54.19px; left: 0.09px; top: 8.18px; position: absolute; transform: rotate(0.63deg); transform-origin: 0 0" src="https://via.placeholder.com/370x54" />
+  <img style="width: 195px; height: 178px; left: 44px; top: 232px; position: absolute" src="https://via.placeholder.com/195x178" />
+  <div style="left: 83px; top: 442px; position: absolute; color: #DB4747; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">SPORTS  DAY<br/></div>
+  <div style="width: 150px; height: 41px; left: 81px; top: 505px; position: absolute; color: #4A14E2; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">LOGIN<br/></div>
+  <div style="width: 135px; height: 38px; left: 229px; top: 617px; position: absolute"><span style="color: #D4F414; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER<br/></span><span style="color: black; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word"><br/></span></div>
 </div>
 
-// TECNO FEST 2K23
-color: #18E9DC;
- font-size: 44px;
- font-family: Irish Grover;
- font-weight: 400;
- word-wrap: break-word
----
-// LOGIN
-color: white;
- font-size: 29px;
- font-family: Lakki Reddy;
- font-weight: 400;
- word-wrap: break-word
----
-// REGISTER
-color: white;
- font-size: 29px;
- font-family: Lakki Reddy;
- font-weight: 400;
- word-wrap: break-word
-
- Registration Page
-
- <div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 889px; height: 640px; left: -14px; top: 0px; position: absolute" src="https://via.placeholder.com/889x640" />
-    <div style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute; background: rgba(2.18, 2.15, 2.15, 0.65)"></div>
-    <div style="width: 360px; height: 57px; left: 0px; top: 9px; position: absolute; background: #FFFEFE"></div>
-    <img style="width: 347px; height: 48px; left: 6px; top: 13px; position: absolute" src="https://via.placeholder.com/347x48" />
-    <div style="width: 318px; height: 40px; left: 20px; top: 98px; position: absolute; color: white; font-size: 32px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">EVENT REGISTRATION</div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 165px; position: absolute; background: white"></div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 214px; position: absolute; background: white"></div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 263px; position: absolute; background: white"></div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 312px; position: absolute; background: white"></div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 361px; position: absolute; background: white"></div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 410px; position: absolute; background: white"></div>
-    <div style="width: 273px; height: 31px; left: 42px; top: 459px; position: absolute; background: white"></div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 173px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Full Name</div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 219px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Register no</div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 269px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Gender</div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 320px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Department</div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 367px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Mobile</div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 419px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Email ID</div>
-    <div style="width: 180px; height: 20px; left: 53px; top: 467px; position: absolute; color: black; font-size: 13px; font-family: Imprima; font-weight: 400; word-wrap: break-word">Event to register</div>
-    <div style="width: 227px; height: 54px; left: 66px; top: 527px; position: absolute; background: #84D037; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 2px black solid"></div>
-    <div style="width: 204px; height: 35px; left: 77px; top: 538px; position: absolute; text-align: center; color: white; font-size: 29px; font-family: Lakki Reddy; font-weight: 400; word-wrap: break-word">SUBMIT</div>
+// registration
+<div style="width: 375px; height: 667px; position: relative; background: #15E25B">
+  <div style="width: 232px; height: 56px; left: 79px; top: 68px; position: absolute; color: #E9E11E; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">SPORTS DAY EVENTS<br/></div>
+  <div style="width: 123px; height: 40px; left: 143px; top: 286px; position: absolute; color: #1E58EF; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">CRICKET</div>
+  <div style="width: 91px; height: 31px; left: 149px; top: 334px; position: absolute; color: #CA13D9; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">VOLLEY BALL<br/></div>
+  <div style="width: 140px; height: 34px; left: 119px; top: 410px; position: absolute; color: #EAEF11; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">KABADDI</div>
+  <div style="width: 162px; height: 31px; left: 97px; top: 489px; position: absolute; color: #1EF1FF; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">FOOT BALL</div>
+  <div style="width: 95px; height: 30px; left: 178px; top: 547px; position: absolute; color: #82BE6D; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">CHESS<br/></div>
 </div>
 
-// EVENT REGISTRATION
-color: white;
- font-size: 32px;
- font-family: Irish Grover;
- font-weight: 400;
- word-wrap: break-word
----
-// Full Name
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// Register no
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// Gender
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// Department
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// Mobile
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// Email ID
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// Event to register
-color: black;
- font-size: 13px;
- font-family: Imprima;
- font-weight: 400;
- word-wrap: break-word
----
-// SUBMIT
-color: white;
- font-size: 29px;
- font-family: Lakki Reddy;
- font-weight: 400;
- word-wrap: break-word
-
- Thank you Page
-
- <div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x640" />
-    <div style="width: 360px; height: 640px; left: 0px; top: 0px; position: absolute; background: rgba(8.31, 8.31, 8.31, 0.65)"></div>
-    <div style="width: 360px; height: 57px; left: 0px; top: 9px; position: absolute; background: #FFFEFE"></div>
-    <img style="width: 347px; height: 48px; left: 2px; top: 13px; position: absolute" src="https://via.placeholder.com/347x48" />
-    <div style="width: 252px; height: 169px; left: 54px; top: 182px; position: absolute; text-align: center"><span style="color: #B3E918; font-size: 38px; font-family: Lilita One; font-weight: 400; word-wrap: break-word">THANK YOU FOR REGISTERING.<br/></span><span style="color: #15DDE9; font-size: 38px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word"><br/> </span><span style="color: #15DDE9; font-size: 38px; font-family: Kaushan Script; font-weight: 400; word-wrap: break-word">We’re Excited to have you On Board.</span></div>
+// events
+<div style="width: 375px; height: 667px; position: relative; background: #DDE110">
+  <div style="width: 245px; height: 53px; left: 65px; top: 26px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">EVENT REGISTRATION FORM<br/></div>
+  <div style="width: 186px; height: 56px; left: 85px; top: 126px; position: absolute; color: #F55F5F; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">FULL<br/>         NAME:</div>
+  <div style="width: 159px; height: 49px; left: 90px; top: 211px; position: absolute; color: #220FFC; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">GENDER:</div>
+  <div style="width: 154px; height: 37px; left: 95px; top: 273px; position: absolute; color: #3CE421; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER NUMBER:</div>
+  <div style="width: 118px; height: 26px; left: 97px; top: 349px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">DEPARTMENT:<br/></div>
+  <div style="width: 118px; height: 31px; left: 86px; top: 440px; position: absolute; color: #D017B2; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word">MOBILE NUMBER:</div>
+  <div style="width: 158px; height: 80px; left: 201px; top: 545px; position: absolute; color: #EC2013; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER</div>
 </div>
-
-// THANK YOU FOR REGISTERING.<br/>
-color: #B3E918;
- font-size: 38px;
- font-family: Lilita One;
- font-weight: 400;
- word-wrap: break-word
----
-// <br/> 
-color: #15DDE9;
- font-size: 38px;
- font-family: Irish Grover;
- font-weight: 400;
- word-wrap: break-word
----
-// We’re Excited to have you On Board.
-color: #15DDE9;
- font-size: 38px;
- font-family: Kaushan Script;
- font-weight: 400;
- word-wrap: break-word
+// Conclusion
+<div style="width: 360px; height: 640px; position: relative; background: #EE1212">
+  <div style="width: 203px; height: 100px; left: 0px; top: 41px; position: absolute; color: #0F7BFA; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">THANK</div>
+  <div style="width: 180px; height: 54px; left: 180px; top: 99px; position: absolute; color: #16F354; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">YOU<br/></div>
+  <div style="width: 318px; height: 274px; left: 21px; top: 291px; position: absolute; color: #161313; font-size: 12px; font-family: Inter; font-weight: 700; word-wrap: break-word">Sports events serve as powerful platforms for fostering unity, celebrating athleticism, and inspiring millions worldwide. From the historic courts of Wimbledon to the grueling stages of the Tour de France, these events captivate audiences with their spectacle and drama. Whether it's the Super Bowl's blend of sporting excellence and entertainment or the FIFA World Cup's ability to transcend borders through the love of soccer, each event leaves an indelible mark on global culture. As the Olympic Games symbolize the pinnacle of human achievement and cooperation, they remind us of the boundless potential of sport to bring people together, transcending differences and fostering a sense of camaraderie that resonates far beyond the playing field.</div>
+</div>
 ```
 
+
+
+
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Murali-Krishna0/Figma/assets/149054535/91cab951-ea9a-4a40-aa88-172bb9533980)
+
+
 
 
 
