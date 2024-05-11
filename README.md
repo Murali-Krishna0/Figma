@@ -36,49 +36,43 @@ Figma
 ```
 Register Number: 212223230129
 Developed By: MURALI KRISHNA S
-// home page
-<div style="width: 375px; height: 667px; position: relative; background: #D8A5A5">
-  <img style="width: 200px; height: 30.08px; left: -875px; top: -37px; position: absolute" src="https://via.placeholder.com/200x30" />
-  <img style="width: 370.41px; height: 54.19px; left: 0.09px; top: 8.18px; position: absolute; transform: rotate(0.63deg); transform-origin: 0 0" src="https://via.placeholder.com/370x54" />
-  <img style="width: 195px; height: 178px; left: 44px; top: 232px; position: absolute" src="https://via.placeholder.com/195x178" />
-  <div style="left: 83px; top: 442px; position: absolute; color: #DB4747; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">SPORTS  DAY<br/></div>
-  <div style="width: 150px; height: 41px; left: 81px; top: 505px; position: absolute; color: #4A14E2; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">LOGIN<br/></div>
-  <div style="width: 135px; height: 38px; left: 229px; top: 617px; position: absolute"><span style="color: #D4F414; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER<br/></span><span style="color: black; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word"><br/></span></div>
-</div>
 
-// registration
-<div style="width: 375px; height: 667px; position: relative; background: #15E25B">
-  <div style="width: 232px; height: 56px; left: 79px; top: 68px; position: absolute; color: #E9E11E; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">SPORTS DAY EVENTS<br/></div>
-  <div style="width: 123px; height: 40px; left: 143px; top: 286px; position: absolute; color: #1E58EF; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">CRICKET</div>
-  <div style="width: 91px; height: 31px; left: 149px; top: 334px; position: absolute; color: #CA13D9; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">VOLLEY BALL<br/></div>
-  <div style="width: 140px; height: 34px; left: 119px; top: 410px; position: absolute; color: #EAEF11; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">KABADDI</div>
-  <div style="width: 162px; height: 31px; left: 97px; top: 489px; position: absolute; color: #1EF1FF; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">FOOT BALL</div>
-  <div style="width: 95px; height: 30px; left: 178px; top: 547px; position: absolute; color: #82BE6D; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">CHESS<br/></div>
-</div>
-
-// events
-<div style="width: 375px; height: 667px; position: relative; background: #DDE110">
-  <div style="width: 245px; height: 53px; left: 65px; top: 26px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">EVENT REGISTRATION FORM<br/></div>
-  <div style="width: 186px; height: 56px; left: 85px; top: 126px; position: absolute; color: #F55F5F; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">FULL<br/>         NAME:</div>
-  <div style="width: 159px; height: 49px; left: 90px; top: 211px; position: absolute; color: #220FFC; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">GENDER:</div>
-  <div style="width: 154px; height: 37px; left: 95px; top: 273px; position: absolute; color: #3CE421; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER NUMBER:</div>
-  <div style="width: 118px; height: 26px; left: 97px; top: 349px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">DEPARTMENT:<br/></div>
-  <div style="width: 118px; height: 31px; left: 86px; top: 440px; position: absolute; color: #D017B2; font-size: 13px; font-family: Inter; font-weight: 700; word-wrap: break-word">MOBILE NUMBER:</div>
-  <div style="width: 158px; height: 80px; left: 201px; top: 545px; position: absolute; color: #EC2013; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER</div>
-</div>
-// Conclusion
-<div style="width: 360px; height: 640px; position: relative; background: #EE1212">
-  <div style="width: 203px; height: 100px; left: 0px; top: 41px; position: absolute; color: #0F7BFA; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">THANK</div>
-  <div style="width: 180px; height: 54px; left: 180px; top: 99px; position: absolute; color: #16F354; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">YOU<br/></div>
-  <div style="width: 318px; height: 274px; left: 21px; top: 291px; position: absolute; color: #161313; font-size: 12px; font-family: Inter; font-weight: 700; word-wrap: break-word">Sports events serve as powerful platforms for fostering unity, celebrating athleticism, and inspiring millions worldwide. From the historic courts of Wimbledon to the grueling stages of the Tour de France, these events captivate audiences with their spectacle and drama. Whether it's the Super Bowl's blend of sporting excellence and entertainment or the FIFA World Cup's ability to transcend borders through the love of soccer, each event leaves an indelible mark on global culture. As the Olympic Games symbolize the pinnacle of human achievement and cooperation, they remind us of the boundless potential of sport to bring people together, transcending differences and fostering a sense of camaraderie that resonates far beyond the playing field.</div>
-</div>
+<div style="width: 246px; height: 531px; position: relative; background: #FF0D0D">
+    <div style="width: 149px; height: 62px; left: 49px; top: 180px; position: absolute; color: white; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">sports<br/>            day<br/>                      events</div>
+    <div style="width: 123px; height: 47px; left: 56px; top: 370px; position: absolute; color: #11FA0C; font-size: 40px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">LOGIN</div>
+    <div style="width: 83px; height: 29px; left: 149px; top: 476px; position: absolute; color: #1242EA; font-size: 16px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">REGISTER</div>
+  </div>
+  <div style="width: 320px; height: 568px; position: relative; background: #0BE72E">
+    <div style="width: 214px; height: 76px; left: 62px; top: 40px; position: absolute; color: #1A30F1; font-size: 16px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">SPORTS <br/>                  DAYS<br/>                                    EVENTS</div>
+    <div style="width: 210px; height: 259px; left: 64px; top: 178px; position: absolute; border: 1px black solid"></div>
+    <div style="width: 13px; height: 35px; left: 99px; top: 264px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+    <div style="width: 16px; height: 22px; left: 96px; top: 381px; position: absolute; background: #D9D9D9"></div>
+    <div style="width: 93px; height: 40px; left: 141px; top: 201px; position: absolute; color: #2622FE; font-size: 12px; font-family: Inter; font-weight: 500; line-height: 18px; word-wrap: break-word">VOLLEY BALL</div>
+    <div style="width: 100px; height: 68.15px; left: 60px; top: 226px; position: absolute"></div>
+    <div style="width: 86px; height: 23px; left: 141px; top: 284px; position: absolute; color: #161313; font-size: 12px; font-family: Inter; font-weight: 500; line-height: 18px; word-wrap: break-word">KABADDI</div>
+    <div style="width: 80px; height: 31px; left: 129px; top: 328px; position: absolute; color: #F90E0E; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">FOOTBALL</div>
+    <div style="width: 114px; height: 24px; left: 132px; top: 389px; position: absolute; color: #E1F21C; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">CRICKET</div>
+  </div>
+  <div style="width: 375px; height: 669px; position: relative; background: #451AF1">
+    <div style="width: 125px; height: 44px; left: 34px; top: 48px; position: absolute"><span style="color: #FA380D; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">FULL NAME</span><span style="color: white; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">:<br/></span></div>
+    <div style="width: 142px; height: 45px; left: 29px; top: 110px; position: absolute; color: #EA790F; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">REGISTERNUMBER</div>
+    <div style="width: 126px; height: 38px; left: 45px; top: 207px; position: absolute; color: #DEF011; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">DEPARTMENT:</div>
+    <div style="width: 132px; height: 42px; left: 39px; top: 284px; position: absolute; color: #0A090A; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">AGE:</div>
+    <div style="width: 195px; height: 37px; left: 86px; top: 394px; position: absolute; color: #1AF658; font-size: 12px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 18px; word-wrap: break-word">E-MAIL:</div>
+    <div style="width: 153px; height: 66px; left: 188px; top: 572px; position: absolute; color: #FF0707; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 48px; word-wrap: break-word">REGISTER</div>
+  </div>
+  <div style="width: 375px; height: 667px; position: relative; background: #D7F711">
+    <div style="width: 278px; height: 172px; left: 39px; top: 42px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 48px; word-wrap: break-word">On this day of sports, hearts race, passions soar, Athletes strive, seeking victory's door. Cheers echo, in stadiums and halls, Where dreams collide, and greatness calls.<br/></div>
+    <div style="width: 243px; height: 91px; left: 115px; top: 467px; position: absolute; color: #370AED; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 400; line-height: 48px; word-wrap: break-word">THANK YOU</div>
+  </div>
 ```
 
 
 
 
 ## OUTPUT:
-![image](https://github.com/Murali-Krishna0/Figma/assets/149054535/91cab951-ea9a-4a40-aa88-172bb9533980)
+![image](https://github.com/Murali-Krishna0/Figma/assets/149054535/8ba2292e-b42a-4239-b506-1282ae96c214)
+
 
 
 
